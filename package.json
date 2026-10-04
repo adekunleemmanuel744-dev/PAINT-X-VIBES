@@ -1,0 +1,30 @@
+{
+  "name": "paint-x-vibes",
+  "version": "1.0.0",
+  "description": "PAINT X VIBES - Creative Paint & Vibe Experiences",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\"",
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adekunleemmanuel744-dev/PAINT-X-VIBES.git"
+  },
+  "keywords": [
+    "paint",
+    "events",
+    "creative",
+    "art"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adekunleemmanuel744-dev/PAINT-X-VIBES/issues"
+  },
+  "homepage": "https://github.com/adekunleemmanuel744-dev/PAINT-X-VIBES#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
